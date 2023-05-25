@@ -1,1 +1,1 @@
-## Basic Data Structure and Algorithm Practice with C++
+## Basic Data Structure and Algorithm Code Template with C++
